@@ -22,7 +22,7 @@ header {
   width: 70%;
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
-  font-size: 150%;
+  font-size: 120%;
 }
 .tekst {
   float: left;
@@ -31,6 +31,16 @@ header {
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
   backdrop-filter: blur(5px);
+}
+.fun_facts {
+    width: 20%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    background-color: lightsteelblue;
+  
 }
 
 
